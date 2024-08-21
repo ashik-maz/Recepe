@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752097838897",
+    "project_id": "sagor-project-2-1",
+    "storage_bucket": "sagor-project-2-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752097838897:android:864589117598290259d210",
+        "android_client_info": {
+          "package_name": "com.sagor.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALruPw69cnwnvcsIH78Zof__eQXFqtpio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
